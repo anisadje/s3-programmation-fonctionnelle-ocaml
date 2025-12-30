@@ -1,6 +1,6 @@
 # Programmation fonctionnelle – OCaml (S3)
 
-📘 TP réalisés durant le semestre 3 en programmation fonctionnelle.
+TP réalisés durant le semestre 3 en programmation fonctionnelle.
 
 ## Objectifs du module
 - Comprendre les principes de la programmation fonctionnelle
@@ -21,7 +21,8 @@
 - Modélisation avec des types
 - Programmation sans effets de bord
 
-## ▶️ Exécution
+## Exécution
 Les fichiers peuvent être testés dans l’interpréteur OCaml :
 ```bash
 ocaml fichier.ml
+
